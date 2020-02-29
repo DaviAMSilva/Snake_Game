@@ -1,2 +1,2 @@
-# Snake_Game
+# Snake Game
 Jogo da cobra que eu fiz
